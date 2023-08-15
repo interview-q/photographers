@@ -1,4 +1,5 @@
-Your assignment is to create a microservice which serves the contents of photographers.json through a REST API.
+Your assignment is to create a microservice which serves the contents of photographers.json through a REST API. You may use [Spring Initializr]
+(https://start.spring.io/) or an existing starter if desired.
 
 The service should expose three REST endpoints:
 
